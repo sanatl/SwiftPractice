@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "package",
+        "repositoryURL": "https://github.com/sanatl/SwiftPractice.git",
+        "state": {
+          "branch": null,
+          "revision": "4fe7e592bbff472e9171eb0dedc7457a33012dd6",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
